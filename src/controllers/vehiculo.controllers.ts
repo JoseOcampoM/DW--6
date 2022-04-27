@@ -11,17 +11,17 @@ export class VehiculoController{
         }
     }
 
-    public async getOneVehiculo(req: Request, res: Response){
+    // public async getOneVehiculo(req: Request, res: Response){
         
-    }
-    public async createVehiculo(req: Request, res: Response){
+    // }
+    // public async createVehiculo(req: Request, res: Response){
 
-    }
-    public async updateVehiculo(req: Request, res: Response){
+    // }
+    // public async updateVehiculo(req: Request, res: Response){
 
-    }
-    public async deleteVehiculo(req: Request, res: Response){
+    // }
+    // public async deleteVehiculo(req: Request, res: Response){
 
-    }
+    // }
        
 }

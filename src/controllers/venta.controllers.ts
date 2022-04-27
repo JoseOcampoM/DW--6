@@ -11,17 +11,17 @@ export class VentaController{
         }
     }
 
-    public async getOneVenta(req: Request, res: Response){
+    // public async getOneVenta(req: Request, res: Response){
         
-    }
-    public async createVenta(req: Request, res: Response){
+    // }
+    // public async createVenta(req: Request, res: Response){
 
-    }
-    public async updateVenta(req: Request, res: Response){
+    // }
+    // public async updateVenta(req: Request, res: Response){
 
-    }
-    public async deleteVenta(req: Request, res: Response){
+    // }
+    // public async deleteVenta(req: Request, res: Response){
 
-    }
+    // }
        
 }

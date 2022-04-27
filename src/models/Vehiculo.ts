@@ -1,6 +1,7 @@
 import { Model, DataTypes } from "sequelize";
 import { database } from "../database/db";
 
+
 export class Vehiculo extends Model {
     public modelo!: string;
     public color!: string;
